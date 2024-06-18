@@ -1,0 +1,1 @@
+- Updated discount for loyal customers with Coffeehut_Wallet
