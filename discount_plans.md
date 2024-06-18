@@ -1,0 +1,2 @@
+- Discount for Coffeehut_Wallet: 10% off
+- Loyal user profile: Additional 5% off
